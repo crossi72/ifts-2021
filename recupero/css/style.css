@@ -23,6 +23,10 @@
 	background-color: #00F;
 }
 
+.giallo{
+	background-color: #FF0;
+}
+
 .row{
 	display: flex;
 	flex-wrap: wrap;

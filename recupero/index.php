@@ -31,6 +31,8 @@ function print_button_bar(){
 	print_button("Rosso", "rosso");
 	print_button("Verde", "verde");
 	print_button("Blu", "blu");
+	print_button("Giallo", "btn_giallo");
+	print_button("Alterna", "btn_alterna");
 }
 
 /**
